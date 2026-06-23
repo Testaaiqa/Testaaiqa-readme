@@ -1,4 +1,4 @@
-<h1 align="center">Fala dev! 👋 Eu sou o André Silva</h1>
+<h1 align="center">Fala pessoal! 👋 Eu sou o André Silva</h1>
 
 <p align="center">
   💻 QA Automation Engineer | 🚀 Apaixonado por qualidade de software  
@@ -54,11 +54,12 @@
 
 ---
 
+
 ## 🌎 Onde me encontrar
 
 <p align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-santos-da-silva-67b12b36a/)
 
 </p>
 
